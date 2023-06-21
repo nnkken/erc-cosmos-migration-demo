@@ -22,7 +22,7 @@
     "express": "^4.16.4",
     "express-http-proxy": "^1.5.1",
     "fast-json-stable-stringify": "^2.0.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "secp256k1": "^3.7.1",
     "web3": "^1.2.1"
   },
